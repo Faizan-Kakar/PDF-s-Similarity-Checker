@@ -43,7 +43,7 @@ Given two PDF documents, the system:
 
 2. Launch the Jupyter Notebook
    ```bash
-   jupyter notebook notebook/similarity_demo.ipynb
+   jupyter notebook notebook/Document_Similarity_Detection.ipynb
    
 3. Upload your PDFs and run the cells in sequence to get results.
 
